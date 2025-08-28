@@ -1,3 +1,4 @@
+@import url(../Bloques/bloqueHeader.css);
 .page {
   min-width: 1100px;
   max-width: 1600px;
