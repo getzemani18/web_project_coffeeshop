@@ -33,15 +33,16 @@
 }
 
 /* header */
-.header__content {
-  display: flex;
-  flex-direction: column;
-  position: relative;
-}
+
 .header__image {
+  display: flex;
   position: absolute;
+  flex-direction: column;
   top: 124px;
-  left: 5px;
+  right: 5px;
   height: 568px;
   width: 646px;
+}
+
+.header__title {
 }
