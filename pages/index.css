@@ -1,5 +1,5 @@
-@import url(../Bloques/bloqueHeader.css);
-@import url(../Bloques/bloqueRecipes.css);
+@import url(../Bloques/header.css);
+@import url(../Bloques/recipes.css);
 .page {
   min-width: 1100px;
   max-width: 1600px;
