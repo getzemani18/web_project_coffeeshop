@@ -184,9 +184,12 @@
   margin: 0 auto;
   padding-bottom: 120px;
 }
+.form {
+  max-width: 385px;
+}
 .form__fieldset {
   margin: 0;
-  max-width: 385px;
+
   border: none;
   display: flex;
   flex-direction: column;
@@ -212,7 +215,7 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 0;
+  margin: auto;
 }
 
 .form__input {
