@@ -7,3 +7,19 @@
   height: 100%;
   margin: 0;
 }
+.reservation__form {
+  margin: 0 auto;
+  padding-bottom: 120px;
+}
+.reservation__title {
+  padding-top: 100px;
+  padding-bottom: 80px;
+  display: flex;
+  justify-content: center;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  margin: 0 auto 80px;
+}
