@@ -22,8 +22,9 @@
 .footer__content {
   display: flex;
   justify-content: space-between;
+  position: relative;
   z-index: 1;
-  margin: 60px 80px 0;
+  padding-top: 60px;
 }
 .footer__logo {
   height: 39px;
@@ -31,6 +32,7 @@
 }
 
 .footer__social {
+  padding-right: 80px;
   padding-bottom: 108px;
 }
 .footer__social-heading {
